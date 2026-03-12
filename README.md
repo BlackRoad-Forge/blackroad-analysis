@@ -1,5 +1,10 @@
 # BlackRoad Analysis
 
+[![Shell](https://img.shields.io/badge/Shell-analysis-4EAA25.svg)](https://gnu.org/software/bash/)
+[![1225 Repos](https://img.shields.io/badge/repos_audited-1%2C225-FF6B2B.svg)](https://blackroad.io)
+
+
+
 Internal analysis repository — documentation, deployment scripts, infrastructure reports, and operational data for the BlackRoad OS ecosystem.
 
 ## Contents
